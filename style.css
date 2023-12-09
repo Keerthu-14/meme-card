@@ -1,0 +1,24 @@
+html{
+    background: url(./assets/images/dark-wallpaper.jpg);
+    background-size: cover;
+}
+.box{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+#image{
+    width: 100%;
+    height: 100%;
+    /* border: 5px solid white; */
+    border-radius: 50%;
+}
